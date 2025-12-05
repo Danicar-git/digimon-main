@@ -1,4 +1,4 @@
-import 'package:digimon/digimon_model.dart';
+import 'digimon_model.dart';
 import 'digimon_detail_page.dart';
 import 'package:flutter/material.dart';
 
